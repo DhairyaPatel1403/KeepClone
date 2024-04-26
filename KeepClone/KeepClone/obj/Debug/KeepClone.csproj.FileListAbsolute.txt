@@ -1,0 +1,12 @@
+C:\Users\Dhairya\source\repos\KeepClone\KeepClone\bin\KeepClone.dll.config
+C:\Users\Dhairya\source\repos\KeepClone\KeepClone\bin\KeepClone.dll
+C:\Users\Dhairya\source\repos\KeepClone\KeepClone\bin\KeepClone.pdb
+C:\Users\Dhairya\source\repos\KeepClone\KeepClone\bin\EntityFramework.dll
+C:\Users\Dhairya\source\repos\KeepClone\KeepClone\bin\EntityFramework.SqlServer.dll
+C:\Users\Dhairya\source\repos\KeepClone\KeepClone\bin\EntityFramework.xml
+C:\Users\Dhairya\source\repos\KeepClone\KeepClone\bin\EntityFramework.SqlServer.xml
+C:\Users\Dhairya\source\repos\KeepClone\KeepClone\obj\Debug\KeepClone.csproj.AssemblyReference.cache
+C:\Users\Dhairya\source\repos\KeepClone\KeepClone\obj\Debug\KeepClone.csproj.CoreCompileInputs.cache
+C:\Users\Dhairya\source\repos\KeepClone\KeepClone\obj\Debug\KeepClone.csproj.Up2Date
+C:\Users\Dhairya\source\repos\KeepClone\KeepClone\obj\Debug\KeepClone.dll
+C:\Users\Dhairya\source\repos\KeepClone\KeepClone\obj\Debug\KeepClone.pdb

@@ -1,0 +1,232 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Dhairya\\source\\repos\\KeepCloneClient\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{33726AAC-126C-4BBF-AA3C-5C38DAEA96BC}|KeepCloneClient\\KeepCloneClient.csproj|C:\\Users\\Dhairya\\source\\repos\\KeepCloneClient\\keepcloneclient\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33726AAC-126C-4BBF-AA3C-5C38DAEA96BC}|KeepCloneClient\\KeepCloneClient.csproj|solutionrelative:keepcloneclient\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33726AAC-126C-4BBF-AA3C-5C38DAEA96BC}|KeepCloneClient\\KeepCloneClient.csproj|C:\\Users\\Dhairya\\source\\repos\\KeepCloneClient\\keepcloneclient\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{33726AAC-126C-4BBF-AA3C-5C38DAEA96BC}|KeepCloneClient\\KeepCloneClient.csproj|solutionrelative:keepcloneclient\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33726AAC-126C-4BBF-AA3C-5C38DAEA96BC}|KeepCloneClient\\KeepCloneClient.csproj|c:\\users\\dhairya\\source\\repos\\keepcloneclient\\keepcloneclient\\write.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33726AAC-126C-4BBF-AA3C-5C38DAEA96BC}|KeepCloneClient\\KeepCloneClient.csproj|solutionrelative:keepcloneclient\\write.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33726AAC-126C-4BBF-AA3C-5C38DAEA96BC}|KeepCloneClient\\KeepCloneClient.csproj|C:\\Users\\Dhairya\\source\\repos\\KeepCloneClient\\keepcloneclient\\write.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{33726AAC-126C-4BBF-AA3C-5C38DAEA96BC}|KeepCloneClient\\KeepCloneClient.csproj|solutionrelative:keepcloneclient\\write.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33726AAC-126C-4BBF-AA3C-5C38DAEA96BC}|KeepCloneClient\\KeepCloneClient.csproj|C:\\Users\\Dhairya\\source\\repos\\KeepCloneClient\\keepcloneclient\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33726AAC-126C-4BBF-AA3C-5C38DAEA96BC}|KeepCloneClient\\KeepCloneClient.csproj|solutionrelative:keepcloneclient\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33726AAC-126C-4BBF-AA3C-5C38DAEA96BC}|KeepCloneClient\\KeepCloneClient.csproj|C:\\Users\\Dhairya\\source\\repos\\KeepCloneClient\\keepcloneclient\\note.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33726AAC-126C-4BBF-AA3C-5C38DAEA96BC}|KeepCloneClient\\KeepCloneClient.csproj|solutionrelative:keepcloneclient\\note.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33726AAC-126C-4BBF-AA3C-5C38DAEA96BC}|KeepCloneClient\\KeepCloneClient.csproj|C:\\Users\\Dhairya\\source\\repos\\KeepCloneClient\\keepcloneclient\\home.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33726AAC-126C-4BBF-AA3C-5C38DAEA96BC}|KeepCloneClient\\KeepCloneClient.csproj|solutionrelative:keepcloneclient\\home.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33726AAC-126C-4BBF-AA3C-5C38DAEA96BC}|KeepCloneClient\\KeepCloneClient.csproj|C:\\Users\\Dhairya\\source\\repos\\KeepCloneClient\\keepcloneclient\\home.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{33726AAC-126C-4BBF-AA3C-5C38DAEA96BC}|KeepCloneClient\\KeepCloneClient.csproj|solutionrelative:keepcloneclient\\home.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33726AAC-126C-4BBF-AA3C-5C38DAEA96BC}|KeepCloneClient\\KeepCloneClient.csproj|C:\\Users\\Dhairya\\source\\repos\\KeepCloneClient\\keepcloneclient\\viewnote.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33726AAC-126C-4BBF-AA3C-5C38DAEA96BC}|KeepCloneClient\\KeepCloneClient.csproj|solutionrelative:keepcloneclient\\viewnote.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33726AAC-126C-4BBF-AA3C-5C38DAEA96BC}|KeepCloneClient\\KeepCloneClient.csproj|C:\\Users\\Dhairya\\source\\repos\\KeepCloneClient\\keepcloneclient\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{33726AAC-126C-4BBF-AA3C-5C38DAEA96BC}|KeepCloneClient\\KeepCloneClient.csproj|solutionrelative:keepcloneclient\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33726AAC-126C-4BBF-AA3C-5C38DAEA96BC}|KeepCloneClient\\KeepCloneClient.csproj|C:\\Users\\Dhairya\\source\\repos\\KeepCloneClient\\keepcloneclient\\viewnote.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{33726AAC-126C-4BBF-AA3C-5C38DAEA96BC}|KeepCloneClient\\KeepCloneClient.csproj|solutionrelative:keepcloneclient\\viewnote.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33726AAC-126C-4BBF-AA3C-5C38DAEA96BC}|KeepCloneClient\\KeepCloneClient.csproj|C:\\Users\\Dhairya\\source\\repos\\KeepCloneClient\\keepcloneclient\\diary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33726AAC-126C-4BBF-AA3C-5C38DAEA96BC}|KeepCloneClient\\KeepCloneClient.csproj|solutionrelative:keepcloneclient\\diary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33726AAC-126C-4BBF-AA3C-5C38DAEA96BC}|KeepCloneClient\\KeepCloneClient.csproj|C:\\Users\\Dhairya\\source\\repos\\KeepCloneClient\\keepcloneclient\\about.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{33726AAC-126C-4BBF-AA3C-5C38DAEA96BC}|KeepCloneClient\\KeepCloneClient.csproj|solutionrelative:keepcloneclient\\about.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Home.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Dhairya\\source\\repos\\KeepCloneClient\\KeepCloneClient\\Home.aspx.cs",
+              "RelativeDocumentMoniker": "KeepCloneClient\\Home.aspx.cs",
+              "ToolTip": "C:\\Users\\Dhairya\\source\\repos\\KeepCloneClient\\KeepCloneClient\\Home.aspx.cs",
+              "RelativeToolTip": "KeepCloneClient\\Home.aspx.cs",
+              "ViewState": "AQIAAFAAAAAAAAAAAAAwwGMAAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T14:42:18.596Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Write.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Dhairya\\source\\repos\\KeepCloneClient\\KeepCloneClient\\Write.aspx.cs",
+              "RelativeDocumentMoniker": "KeepCloneClient\\Write.aspx.cs",
+              "ToolTip": "C:\\Users\\Dhairya\\source\\repos\\KeepCloneClient\\KeepCloneClient\\Write.aspx.cs",
+              "RelativeToolTip": "KeepCloneClient\\Write.aspx.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T09:32:39.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Dhairya\\source\\repos\\KeepCloneClient\\KeepCloneClient\\User.cs",
+              "RelativeDocumentMoniker": "KeepCloneClient\\User.cs",
+              "ToolTip": "C:\\Users\\Dhairya\\source\\repos\\KeepCloneClient\\KeepCloneClient\\User.cs",
+              "RelativeToolTip": "KeepCloneClient\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T19:28:39.66Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Home.aspx",
+              "DocumentMoniker": "C:\\Users\\Dhairya\\source\\repos\\KeepCloneClient\\KeepCloneClient\\Home.aspx",
+              "RelativeDocumentMoniker": "KeepCloneClient\\Home.aspx",
+              "ToolTip": "C:\\Users\\Dhairya\\source\\repos\\KeepCloneClient\\KeepCloneClient\\Home.aspx",
+              "RelativeToolTip": "KeepCloneClient\\Home.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-03-29T14:38:50.091Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Write.aspx",
+              "DocumentMoniker": "C:\\Users\\Dhairya\\source\\repos\\KeepCloneClient\\KeepCloneClient\\Write.aspx",
+              "RelativeDocumentMoniker": "KeepCloneClient\\Write.aspx",
+              "ToolTip": "C:\\Users\\Dhairya\\source\\repos\\KeepCloneClient\\KeepCloneClient\\Write.aspx",
+              "RelativeToolTip": "KeepCloneClient\\Write.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-03-29T09:17:54.633Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ViewNote.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Dhairya\\source\\repos\\KeepCloneClient\\KeepCloneClient\\ViewNote.aspx.cs",
+              "RelativeDocumentMoniker": "KeepCloneClient\\ViewNote.aspx.cs",
+              "ToolTip": "C:\\Users\\Dhairya\\source\\repos\\KeepCloneClient\\KeepCloneClient\\ViewNote.aspx.cs",
+              "RelativeToolTip": "KeepCloneClient\\ViewNote.aspx.cs",
+              "ViewState": "AQIAAE0AAAAAAAAAAAAwwDEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T06:23:03.663Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Default.aspx",
+              "DocumentMoniker": "C:\\Users\\Dhairya\\source\\repos\\KeepCloneClient\\KeepCloneClient\\Default.aspx",
+              "RelativeDocumentMoniker": "KeepCloneClient\\Default.aspx",
+              "ToolTip": "C:\\Users\\Dhairya\\source\\repos\\KeepCloneClient\\KeepCloneClient\\Default.aspx",
+              "RelativeToolTip": "KeepCloneClient\\Default.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-03-28T05:17:43.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Default.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Dhairya\\source\\repos\\KeepCloneClient\\KeepCloneClient\\Default.aspx.cs",
+              "RelativeDocumentMoniker": "KeepCloneClient\\Default.aspx.cs",
+              "ToolTip": "C:\\Users\\Dhairya\\source\\repos\\KeepCloneClient\\KeepCloneClient\\Default.aspx.cs",
+              "RelativeToolTip": "KeepCloneClient\\Default.aspx.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAUwDsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T05:18:00.947Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Note.cs",
+              "DocumentMoniker": "C:\\Users\\Dhairya\\source\\repos\\KeepCloneClient\\KeepCloneClient\\Note.cs",
+              "RelativeDocumentMoniker": "KeepCloneClient\\Note.cs",
+              "ToolTip": "C:\\Users\\Dhairya\\source\\repos\\KeepCloneClient\\KeepCloneClient\\Note.cs",
+              "RelativeToolTip": "KeepCloneClient\\Note.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T05:51:33.033Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\Dhairya\\source\\repos\\KeepCloneClient\\KeepCloneClient\\Web.config",
+              "RelativeDocumentMoniker": "KeepCloneClient\\Web.config",
+              "ToolTip": "C:\\Users\\Dhairya\\source\\repos\\KeepCloneClient\\KeepCloneClient\\Web.config",
+              "RelativeToolTip": "KeepCloneClient\\Web.config",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAACQAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-03-29T14:47:04.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ViewNote.aspx",
+              "DocumentMoniker": "C:\\Users\\Dhairya\\source\\repos\\KeepCloneClient\\KeepCloneClient\\ViewNote.aspx",
+              "RelativeDocumentMoniker": "KeepCloneClient\\ViewNote.aspx",
+              "ToolTip": "C:\\Users\\Dhairya\\source\\repos\\KeepCloneClient\\KeepCloneClient\\ViewNote.aspx",
+              "RelativeToolTip": "KeepCloneClient\\ViewNote.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-03-29T06:22:32.764Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "About.aspx",
+              "DocumentMoniker": "C:\\Users\\Dhairya\\source\\repos\\KeepCloneClient\\KeepCloneClient\\About.aspx",
+              "RelativeDocumentMoniker": "KeepCloneClient\\About.aspx",
+              "ToolTip": "C:\\Users\\Dhairya\\source\\repos\\KeepCloneClient\\KeepCloneClient\\About.aspx",
+              "RelativeToolTip": "KeepCloneClient\\About.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-03-28T05:31:27.639Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Diary.cs",
+              "DocumentMoniker": "C:\\Users\\Dhairya\\source\\repos\\KeepCloneClient\\KeepCloneClient\\Diary.cs",
+              "RelativeDocumentMoniker": "KeepCloneClient\\Diary.cs",
+              "ToolTip": "C:\\Users\\Dhairya\\source\\repos\\KeepCloneClient\\KeepCloneClient\\Diary.cs",
+              "RelativeToolTip": "KeepCloneClient\\Diary.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T11:02:27.306Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

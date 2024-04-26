@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="noteskeepModelStoreContainer" CdmEntityContainer="noteskeepEntities1">
+    <EntitySetMapping Name="Diaries">
+      <EntityTypeMapping TypeName="noteskeepModel.Diary">
+        <MappingFragment StoreEntitySet="Diary">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Diary_name" ColumnName="Diary_name" />
+          <ScalarProperty Name="username" ColumnName="username" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>
